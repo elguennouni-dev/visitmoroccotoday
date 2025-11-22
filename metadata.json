@@ -1,0 +1,7 @@
+{
+  "name": "Visit Morocco Today",
+  "description": "A modern, responsive travel blog featuring Moroccan destinations, culture, and an AI travel assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
